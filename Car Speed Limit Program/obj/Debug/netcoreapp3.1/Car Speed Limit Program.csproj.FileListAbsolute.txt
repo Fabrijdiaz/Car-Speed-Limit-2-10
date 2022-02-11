@@ -1,0 +1,14 @@
+C:\Users\Fabricio Diaz\source\repos\Car Speed Limit Program\obj\Debug\netcoreapp3.1\Car Speed Limit Program.csproj.AssemblyReference.cache
+C:\Users\Fabricio Diaz\source\repos\Car Speed Limit Program\obj\Debug\netcoreapp3.1\Car Speed Limit Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricio Diaz\source\repos\Car Speed Limit Program\obj\Debug\netcoreapp3.1\Car Speed Limit Program.AssemblyInfoInputs.cache
+C:\Users\Fabricio Diaz\source\repos\Car Speed Limit Program\obj\Debug\netcoreapp3.1\Car Speed Limit Program.AssemblyInfo.cs
+C:\Users\Fabricio Diaz\source\repos\Car Speed Limit Program\obj\Debug\netcoreapp3.1\Car Speed Limit Program.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio Diaz\source\repos\Car Speed Limit Program\bin\Debug\netcoreapp3.1\Car Speed Limit Program.exe
+C:\Users\Fabricio Diaz\source\repos\Car Speed Limit Program\bin\Debug\netcoreapp3.1\Car Speed Limit Program.deps.json
+C:\Users\Fabricio Diaz\source\repos\Car Speed Limit Program\bin\Debug\netcoreapp3.1\Car Speed Limit Program.runtimeconfig.json
+C:\Users\Fabricio Diaz\source\repos\Car Speed Limit Program\bin\Debug\netcoreapp3.1\Car Speed Limit Program.runtimeconfig.dev.json
+C:\Users\Fabricio Diaz\source\repos\Car Speed Limit Program\bin\Debug\netcoreapp3.1\Car Speed Limit Program.dll
+C:\Users\Fabricio Diaz\source\repos\Car Speed Limit Program\bin\Debug\netcoreapp3.1\Car Speed Limit Program.pdb
+C:\Users\Fabricio Diaz\source\repos\Car Speed Limit Program\obj\Debug\netcoreapp3.1\Car Speed Limit Program.dll
+C:\Users\Fabricio Diaz\source\repos\Car Speed Limit Program\obj\Debug\netcoreapp3.1\Car Speed Limit Program.pdb
+C:\Users\Fabricio Diaz\source\repos\Car Speed Limit Program\obj\Debug\netcoreapp3.1\Car Speed Limit Program.genruntimeconfig.cache
